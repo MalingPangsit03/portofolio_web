@@ -268,7 +268,9 @@ h2 {
     border-radius: 4px;
     cursor: pointer;
     text-decoration: none;
-    display: inline-block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-top: 1rem;
     transition: background-color 0.2s ease, transform 0.2s ease;
 }
