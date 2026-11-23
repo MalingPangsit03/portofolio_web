@@ -261,6 +261,7 @@ h2 {
 
 .project-btn {
     background-color: var(--primary-color);
+    width: auto;
     color: #121212; 
     font-weight: 600;
     border: none;
